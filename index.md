@@ -11,12 +11,28 @@ Previously, I worked on Human-Computer Interaction (HCI) at <a href="https://mad
 
 <br>
 
-## Research Interests
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
-- **Machine Learning**
-- **Contextualized Models**
-- **Bioinformatics**
-- **AI4Healthcare**
+  <div style="flex: 1; min-width: 250px;">
+    <h2>Research Interests</h2>
+    <ul>
+      <li><b>Machine Learning</b></li>
+      <li><b>Contextualized Models</b></li>
+      <li><b>Bioinformatics</b></li>
+      <li><b>AI4Healthcare</b></li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h2>Education</h2>
+    <ul>
+      <li><b>University of Wisconsin-Madison</b>, B.S. in Computer Science (Honors), 2024–2027</li>
+      <li><b>Northeastern University</b>, Computer Science and Mathematics, 2023–2024</li>
+    </ul>
+  </div>
+
+</div>
+
 
 <br>
 
@@ -25,6 +41,7 @@ Previously, I worked on Human-Computer Interaction (HCI) at <a href="https://mad
 - **[Jun. 2025]** Our paper "Characterizing Visual Intents for People with Low Vision through
 Eye Tracking" is accepted to ASSETS 2025.
 
+<br>
 
 {% include_relative _includes/publications.md %}
 
