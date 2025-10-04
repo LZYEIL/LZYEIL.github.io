@@ -25,4 +25,3 @@ Eye Tracking" is accepted to ASSETS 2025.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
