@@ -9,6 +9,7 @@ I'm a junior student majoring in Computer Science with Honors at the <a href="ht
 <br>
 Previously, I worked on Human-Computer Interaction (HCI) at <a href="https://madability.cs.wisc.edu/">madAbility Lab</a>, advised by <a href="https://www.yuhangz.com/">Prof. Yuhang Zhao</a> and <a href="https://ru-wang.com/">Ru Wang</a>
 
+<br>
 
 ## Research Interests
 
@@ -16,6 +17,8 @@ Previously, I worked on Human-Computer Interaction (HCI) at <a href="https://mad
 - **Contextualized Models**
 - **Bioinformatics**
 - **AI4Healthcare**
+
+<br>
 
 ## News
 
