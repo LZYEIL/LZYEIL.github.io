@@ -2,6 +2,10 @@
   display: flex; 
   align-items: center;}
 
+.social-icons {
+  margin-top: 0.5rem; 
+}
+
 .social-icons a {
   display:inline-block;
   height:3.0rem;   
@@ -12,7 +16,7 @@
   text-align:center;
   font-size:1.8rem; 
   line-height:3.5rem; 
-  margin-right:1rem;}
+  margin-right:0.5rem;}
 
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
