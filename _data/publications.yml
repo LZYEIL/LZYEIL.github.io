@@ -5,13 +5,7 @@ main:
     conference_short: ASSETS
     conference: The 27th International ACM SIGACCESS Conference on Computers and Accessibility <strong>(ASSETS '25)</strong>.
     pdf: https://arxiv.org/pdf/2501.14327
-    bibtex: |
-    @article{wang2025characterizing,
-    title={Characterizing Visual Intents for People with Low Vision through Eye Tracking},
-    author={Wang, Ru and Chen, Ruijia and Cai, Anqiao Erica and Li, Zhiyuan and Mondal, Sanbrita and Zhao, Yuhang},
-    journal={arXiv preprint arXiv:2501.14327},
-    year={2025}
-    }
-    image: ./assets/img/teaser_example_2.png
+    bibtex: ./assets/files/bibs/wang2025characterizing.bib
+    image: ./assets/img/wang2025characterizing.png
  
 
